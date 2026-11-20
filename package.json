@@ -1,0 +1,13 @@
+{
+  "name": "student-course-api",
+  "version": "1.0.0",
+  "description": "A simple Student Course API for Laboratory 3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "cors": "^2.8.5"
+  }
+}
